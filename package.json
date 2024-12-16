@@ -1,0 +1,21 @@
+{
+  "name": "literally-bug-theme",
+  "displayName": "literally-bug-theme",
+  "description": "A minimalist VS Code theme designed to keep distractions at bay, with a clean aesthetic and subtle contrasts that let your code shine. Perfect for developers who value simplicity and focus.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "LiterallyBugTheme",
+        "uiTheme": "hc-black",
+        "path": "./themes/LiterallyBugTheme-color-theme.json"
+      }
+    ]
+  }
+}
